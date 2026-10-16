@@ -1,0 +1,174 @@
+{
+  "sport": "Six Nations",
+  "sources": [
+    "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast",
+    "https://www.sixnationsrugby.com/"
+  ],
+  "events": [
+    {
+      "id": "6n-2027-ire-eng",
+      "title": "Ireland v England – Six Nations (Round 1)",
+      "start": "2027-02-05T20:10:00Z",
+      "tz": "Europe/Dublin",
+      "minutes": 120,
+      "location": "Aviva Stadium, Dublin",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-sco-ita",
+      "title": "Scotland v Italy – Six Nations (Round 1)",
+      "start": "2027-02-06T14:10:00Z",
+      "tz": "Europe/London",
+      "minutes": 120,
+      "location": "Scottish Gas Murrayfield, Edinburgh",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-fra-wal",
+      "title": "France v Wales – Six Nations (Round 1)",
+      "start": "2027-02-06T16:40:00Z",
+      "tz": "Europe/Paris",
+      "minutes": 120,
+      "location": "Stade de France, Paris",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-ita-ire",
+      "title": "Italy v Ireland – Six Nations (Round 2)",
+      "start": "2027-02-13T14:10:00Z",
+      "tz": "Europe/Rome",
+      "minutes": 120,
+      "location": "Stadio Olimpico, Rome",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-sco-wal",
+      "title": "Scotland v Wales – Six Nations (Round 2)",
+      "start": "2027-02-13T16:40:00Z",
+      "tz": "Europe/London",
+      "minutes": 120,
+      "location": "Scottish Gas Murrayfield, Edinburgh",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-eng-fra",
+      "title": "England v France – Six Nations (Round 2)",
+      "start": "2027-02-14T15:10:00Z",
+      "tz": "Europe/London",
+      "minutes": 120,
+      "location": "Allianz Stadium, Twickenham",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-wal-ire",
+      "title": "Wales v Ireland – Six Nations (Round 3)",
+      "start": "2027-02-20T14:10:00Z",
+      "tz": "Europe/London",
+      "minutes": 120,
+      "location": "Principality Stadium, Cardiff",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-eng-ita",
+      "title": "England v Italy – Six Nations (Round 3)",
+      "start": "2027-02-20T16:40:00Z",
+      "tz": "Europe/London",
+      "minutes": 120,
+      "location": "Allianz Stadium, Twickenham",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-fra-sco",
+      "title": "France v Scotland – Six Nations (Round 3)",
+      "start": "2027-02-21T15:10:00Z",
+      "tz": "Europe/Paris",
+      "minutes": 120,
+      "location": "Stade de France, Paris",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-sco-ire",
+      "title": "Scotland v Ireland – Six Nations (Round 4)",
+      "start": "2027-03-05T20:10:00Z",
+      "tz": "Europe/London",
+      "minutes": 120,
+      "location": "Scottish Gas Murrayfield, Edinburgh",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-ita-fra",
+      "title": "Italy v France – Six Nations (Round 4)",
+      "start": "2027-03-06T14:10:00Z",
+      "tz": "Europe/Rome",
+      "minutes": 120,
+      "location": "Stadio Olimpico, Rome",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-wal-eng",
+      "title": "Wales v England – Six Nations (Round 4)",
+      "start": "2027-03-06T16:40:00Z",
+      "tz": "Europe/London",
+      "minutes": 120,
+      "location": "Principality Stadium, Cardiff",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-ita-wal",
+      "title": "Italy v Wales – Six Nations (Round 5)",
+      "start": "2027-03-13T14:10:00Z",
+      "tz": "Europe/Rome",
+      "minutes": 120,
+      "location": "Stadio Olimpico, Rome",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-eng-sco",
+      "title": "England v Scotland – Six Nations (Round 5)",
+      "start": "2027-03-13T16:40:00Z",
+      "tz": "Europe/London",
+      "minutes": 120,
+      "location": "Allianz Stadium, Twickenham",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    },
+    {
+      "id": "6n-2027-ire-fra",
+      "title": "Ireland v France – Six Nations (Round 5)",
+      "start": "2027-03-13T20:10:00Z",
+      "tz": "Europe/Dublin",
+      "minutes": 120,
+      "location": "Aviva Stadium, Dublin",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.planetrugby.com/news/six-nations-fixtures-confirmed-for-2027-with-ireland-opening-and-closing-the-tournament-and-le-crunch-pencilled-in-for-a-valentines-day-sunday-roast"
+    }
+  ]
+}

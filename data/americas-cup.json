@@ -1,0 +1,88 @@
+{
+  "sport": "America's Cup",
+  "sources": [
+    "https://www.sail-world.com/news/298163/",
+    "https://www.americascup.com/"
+  ],
+  "events": [
+    {
+      "id": "ac38-lvc-fleet",
+      "title": "America's Cup – Louis Vuitton Cup Stage 1: Fleet racing",
+      "date": "2027-05-22",
+      "tz": "Europe/Rome",
+      "location": "Bay of Naples",
+      "status": "placeholder",
+      "updated": "2026-10-16",
+      "end_date": "2027-05-23",
+      "source": "https://www.sail-world.com/news/298163/"
+    },
+    {
+      "id": "ac38-lvc-rr-1-2",
+      "title": "America's Cup – Louis Vuitton Cup Round Robins 1–2",
+      "date": "2027-05-26",
+      "tz": "Europe/Rome",
+      "location": "Bay of Naples",
+      "status": "placeholder",
+      "updated": "2026-10-16",
+      "end_date": "2027-05-31",
+      "source": "https://www.sail-world.com/news/298163/"
+    },
+    {
+      "id": "ac38-lvc-rr-3",
+      "title": "America's Cup – Louis Vuitton Cup Round Robin 3",
+      "date": "2027-06-09",
+      "tz": "Europe/Rome",
+      "location": "Bay of Naples",
+      "status": "placeholder",
+      "updated": "2026-10-16",
+      "end_date": "2027-06-11",
+      "source": "https://www.sail-world.com/news/298163/"
+    },
+    {
+      "id": "ac38-lvc-knockout",
+      "title": "America's Cup – Louis Vuitton Cup Knockout (last semi-final place)",
+      "date": "2027-06-12",
+      "tz": "Europe/Rome",
+      "location": "Bay of Naples",
+      "status": "placeholder",
+      "updated": "2026-10-16",
+      "end_date": "2027-06-13",
+      "source": "https://www.sail-world.com/news/298163/"
+    },
+    {
+      "id": "ac38-lvc-semis",
+      "title": "America's Cup – Louis Vuitton Cup Semi-finals",
+      "date": "2027-06-16",
+      "tz": "Europe/Rome",
+      "location": "Bay of Naples",
+      "status": "placeholder",
+      "updated": "2026-10-16",
+      "end_date": "2027-06-20",
+      "notes": "Reserve day 21 June.",
+      "source": "https://www.sail-world.com/news/298163/"
+    },
+    {
+      "id": "ac38-lvc-final",
+      "title": "America's Cup – Louis Vuitton Cup Final",
+      "date": "2027-06-26",
+      "tz": "Europe/Rome",
+      "location": "Bay of Naples",
+      "status": "placeholder",
+      "updated": "2026-10-16",
+      "end_date": "2027-07-04",
+      "source": "https://www.sail-world.com/news/298163/"
+    },
+    {
+      "id": "ac38-match",
+      "title": "America's Cup – The Match (Team New Zealand defends)",
+      "date": "2027-07-10",
+      "tz": "Europe/Rome",
+      "location": "Bay of Naples",
+      "status": "placeholder",
+      "updated": "2026-10-16",
+      "end_date": "2027-07-18",
+      "notes": "First to seven wins; can run to 19 July if needed.",
+      "source": "https://www.sail-world.com/news/298163/"
+    }
+  ]
+}

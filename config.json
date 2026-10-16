@@ -1,0 +1,23 @@
+{
+  "calendar_name": "Sports",
+  "alert_minutes": 15,
+  "keep_past_days": 60,
+  "sports": [
+    {"id": "f1", "name": "Formula 1", "emoji": "🏎️", "enabled": true,
+     "follow": "Qualifying, sprint qualifying, sprint and race"},
+    {"id": "all-blacks", "name": "All Blacks", "emoji": "🏉", "enabled": true,
+     "follow": "Every men's test, including World Cup and finals-weekend games"},
+    {"id": "black-caps", "name": "Black Caps", "emoji": "🏏", "enabled": true,
+     "follow": "Men's T20Is, ODIs and Tests (one event per Test day)"},
+    {"id": "england-football", "name": "England football", "emoji": "⚽", "enabled": true,
+     "follow": "Men's competitive games and friendlies"},
+    {"id": "fulham", "name": "Fulham", "emoji": "⚽", "enabled": true,
+     "follow": "Premier League, FA Cup and Carabao Cup"},
+    {"id": "six-nations", "name": "Six Nations", "emoji": "🏉", "enabled": true,
+     "follow": "All 15 men's games"},
+    {"id": "sailgp", "name": "SailGP", "emoji": "⛵", "enabled": true,
+     "follow": "Every race weekend, one event per race day once times are published"},
+    {"id": "americas-cup", "name": "America's Cup", "emoji": "⛵", "enabled": true,
+     "follow": "Every Louis Vuitton Cup stage and the Match"}
+  ]
+}

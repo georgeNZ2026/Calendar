@@ -1,0 +1,31 @@
+{
+  "sport": "England football",
+  "sources": [
+    "https://www.englandfootball.com/articles/2026/Feb/13/uefa-nations-league-2026-27-fixture-dates-confirmed-20261302",
+    "https://www.uefa.com/uefanationsleague/"
+  ],
+  "events": [
+    {
+      "id": "eng-2026-11-12-cro",
+      "title": "England v Croatia – Nations League",
+      "start": "2026-11-12T19:45",
+      "tz": "Europe/London",
+      "minutes": 120,
+      "location": "Wembley Stadium, London",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.englandfootball.com/articles/2026/Feb/13/uefa-nations-league-2026-27-fixture-dates-confirmed-20261302"
+    },
+    {
+      "id": "eng-2026-11-15-esp",
+      "title": "Spain v England – Nations League",
+      "start": "2026-11-15T19:45:00Z",
+      "tz": "Europe/Madrid",
+      "minutes": 120,
+      "location": "Estadio Metropolitano, Madrid",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.englandfootball.com/articles/2026/Feb/13/uefa-nations-league-2026-27-fixture-dates-confirmed-20261302"
+    }
+  ]
+}

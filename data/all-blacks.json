@@ -1,0 +1,108 @@
+{
+  "sport": "All Blacks",
+  "sources": [
+    "https://www.allblacks.com/",
+    "https://www.nzrugby.co.nz/"
+  ],
+  "events": [
+    {
+      "id": "ab-2026-10-17-aus",
+      "title": "Australia v New Zealand – Bledisloe Cup",
+      "start": "2026-10-17T15:45",
+      "tz": "Australia/Sydney",
+      "minutes": 120,
+      "location": "Accor Stadium, Sydney",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.sydneyolympicpark.nsw.gov.au/things-to-see-and-do/2026-bledisloe-cup-wallabies-v-all-blacks"
+    },
+    {
+      "id": "ab-2026-11-07-sco",
+      "title": "Scotland v New Zealand – Nations Championship",
+      "start": "2026-11-07T14:10",
+      "tz": "Europe/London",
+      "minutes": 120,
+      "location": "Scottish Gas Murrayfield, Edinburgh",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.scotsman.com/sport/rugby-union/scotland-rugby-autumn-tests-dates-murrayfield-tickets-nations-championship-finals-weekend-explained-twickenham-8813625"
+    },
+    {
+      "id": "ab-2026-11-14-wal",
+      "title": "Wales v New Zealand – Nations Championship",
+      "start": "2026-11-14T14:10",
+      "tz": "Europe/London",
+      "minutes": 120,
+      "location": "Principality Stadium, Cardiff",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.wru.wales/2026/05/wales-kick-off-times-confirmed-as-nations-championship-hits-50-days-to-go/"
+    },
+    {
+      "id": "ab-2026-11-21-eng",
+      "title": "England v New Zealand – Nations Championship",
+      "start": "2026-11-21T14:10",
+      "tz": "Europe/London",
+      "minutes": 120,
+      "location": "Allianz Stadium, Twickenham",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.rugbypass.com/live/england-vs-new-zealand/?g=941368"
+    },
+    {
+      "id": "ab-2026-nc-finals",
+      "title": "New Zealand – Nations Championship Finals Weekend (opponent & day TBC)",
+      "date": "2026-11-27",
+      "tz": "Europe/London",
+      "location": "Allianz Stadium, Twickenham",
+      "status": "placeholder",
+      "updated": "2026-10-16",
+      "end_date": "2026-11-29",
+      "notes": "The opponent, day and kick-off depend on the final pool standings after 21 November."
+    },
+    {
+      "id": "ab-2027-04-25-aus",
+      "title": "Australia v New Zealand – Anzac Day Bledisloe Cup",
+      "date": "2027-04-25",
+      "tz": "Australia/Brisbane",
+      "location": "Suncorp Stadium, Brisbane",
+      "status": "placeholder",
+      "updated": "2026-10-16",
+      "notes": "Early-afternoon kick-off promised; exact time not announced yet.",
+      "source": "https://www.allblacks.com/news/all-blacks/anzac-day-bledisloe-cup-test-to-launch-new-trans-tasman-tradition"
+    },
+    {
+      "id": "ab-2027-rwc-chi",
+      "title": "New Zealand v Chile – Rugby World Cup",
+      "start": "2027-10-02T13:15",
+      "tz": "Australia/Perth",
+      "minutes": 120,
+      "location": "Perth Stadium",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.allblacks.com/news/all-blacks-rugby-world-cup-2027-campaign-to-kick-off-against-chile"
+    },
+    {
+      "id": "ab-2027-rwc-aus",
+      "title": "New Zealand v Australia – Rugby World Cup",
+      "start": "2027-10-09T19:10+13:00",
+      "tz": "Australia/Sydney",
+      "minutes": 120,
+      "location": "Stadium Australia, Sydney",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.rnz.co.nz/news/sport/585789/live-sport"
+    },
+    {
+      "id": "ab-2027-rwc-hkc",
+      "title": "New Zealand v Hong Kong China – Rugby World Cup",
+      "start": "2027-10-15T19:15+13:00",
+      "tz": "Australia/Melbourne",
+      "minutes": 120,
+      "location": "Docklands Stadium, Melbourne",
+      "status": "confirmed",
+      "updated": "2026-10-16",
+      "source": "https://www.rnz.co.nz/news/sport/585789/live-sport"
+    }
+  ]
+}
