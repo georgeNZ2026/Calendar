@@ -86,26 +86,26 @@
     {
       "id": "ful-2026-12-02-tottenham-hotspur",
       "title": "Tottenham Hotspur v Fulham – Premier League",
-      "start": "2026-12-02T20:00",
+      "start": "2026-12-03T20:00",
       "tz": "Europe/London",
       "minutes": 120,
       "location": "Tottenham Hotspur Stadium, London",
-      "status": "provisional",
-      "updated": "2026-10-16",
-      "notes": "Kick-off not yet confirmed for TV, so it may move to another day or time.",
-      "source": "https://www.fulhamsupporterstrust.com/activity/colour-coded-fixture-list-2026-27/"
+      "status": "confirmed",
+      "updated": "2026-10-22",
+      "source": "https://www.premierleague.com/en/news/4743152/fixture-amendments-for-premier-league-matches-in-december/",
+      "notes": "Moved from Wed 2 Dec for Sky Sports."
     },
     {
       "id": "ful-2026-12-05-everton",
       "title": "Everton v Fulham – Premier League",
-      "start": "2026-12-05T15:00",
+      "start": "2026-12-06T14:00",
       "tz": "Europe/London",
       "minutes": 120,
       "location": "Hill Dickinson Stadium, Liverpool",
-      "status": "provisional",
-      "updated": "2026-10-16",
-      "notes": "Kick-off not yet confirmed for TV, so it may move to another day or time.",
-      "source": "https://www.fulhamsupporterstrust.com/activity/colour-coded-fixture-list-2026-27/"
+      "status": "confirmed",
+      "updated": "2026-10-22",
+      "notes": "Moved from Sat 5 Dec for Sky Sports (because Spurs v Fulham moved to Thursday).",
+      "source": "https://www.premierleague.com/en/news/4743152/fixture-amendments-for-premier-league-matches-in-december/"
     },
     {
       "id": "ful-2026-12-12-brentford",
@@ -114,10 +114,9 @@
       "tz": "Europe/London",
       "minutes": 120,
       "location": "Craven Cottage, London",
-      "status": "provisional",
-      "updated": "2026-10-16",
-      "notes": "Kick-off not yet confirmed for TV, so it may move to another day or time.",
-      "source": "https://www.fulhamsupporterstrust.com/activity/colour-coded-fixture-list-2026-27/"
+      "status": "confirmed",
+      "updated": "2026-10-22",
+      "source": "https://www.premierleague.com/en/news/4743152/fixture-amendments-for-premier-league-matches-in-december/"
     },
     {
       "id": "ful-2026-12-19-leeds-united",
@@ -126,10 +125,9 @@
       "tz": "Europe/London",
       "minutes": 120,
       "location": "Elland Road, Leeds",
-      "status": "provisional",
-      "updated": "2026-10-16",
-      "notes": "Kick-off not yet confirmed for TV, so it may move to another day or time.",
-      "source": "https://www.fulhamsupporterstrust.com/activity/colour-coded-fixture-list-2026-27/"
+      "status": "confirmed",
+      "updated": "2026-10-22",
+      "source": "https://www.premierleague.com/en/news/4743152/fixture-amendments-for-premier-league-matches-in-december/"
     },
     {
       "id": "ful-2026-12-26-brighton-and-hove-albion",
