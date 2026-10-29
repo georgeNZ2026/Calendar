@@ -72,6 +72,17 @@
       "source": "https://www.allblacks.com/news/all-blacks/anzac-day-bledisloe-cup-test-to-launch-new-trans-tasman-tradition"
     },
     {
+      "id": "ab-2027-07-31-aus",
+      "title": "Australia v New Zealand – Bledisloe Cup / Rugby Championship",
+      "date": "2027-07-31",
+      "tz": "Australia/Melbourne",
+      "location": "Melbourne Cricket Ground",
+      "status": "placeholder",
+      "updated": "2026-10-29",
+      "notes": "Kick-off not officially announced yet (Austadiums reports 3:45pm local).",
+      "source": "https://www.allblacks.com/news/all-blacks/mcg-to-host-2027-bledisloe-cup-test"
+    },
+    {
       "id": "ab-2027-rwc-chi",
       "title": "New Zealand v Chile – Rugby World Cup",
       "start": "2027-10-02T13:15",
