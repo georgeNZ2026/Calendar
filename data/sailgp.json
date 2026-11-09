@@ -30,15 +30,28 @@
       "source": "https://tickets.sailgp.com/dubai/"
     },
     {
-      "id": "sailgp-2026-abu-dhabi",
-      "title": "SailGP – Abu Dhabi Grand Final",
-      "date": "2026-11-28",
       "tz": "Asia/Dubai",
-      "location": "Emirates Palace, Abu Dhabi",
-      "status": "placeholder",
-      "updated": "2026-10-16",
-      "end_date": "2026-11-29",
-      "source": "https://gulfnews.com/sport/dubai-abu-dhabi-to-close-sailgp-season-1.500666780"
+      "location": "Emirates Palace Marina, Abu Dhabi",
+      "updated": "2026-11-09",
+      "source": "https://tickets.sailgp.com/abu-dhabi/",
+      "id": "sailgp-2026-abu-dhabi-day1",
+      "title": "SailGP – Abu Dhabi Grand Final, Day 1",
+      "start": "2026-11-28T14:00",
+      "minutes": 120,
+      "status": "provisional",
+      "notes": "Racing start per the official ticket page; times are approximate and may change with weather or race conditions."
+    },
+    {
+      "tz": "Asia/Dubai",
+      "location": "Emirates Palace Marina, Abu Dhabi",
+      "updated": "2026-11-09",
+      "source": "https://tickets.sailgp.com/abu-dhabi/",
+      "id": "sailgp-2026-abu-dhabi-day2",
+      "title": "SailGP – Abu Dhabi Grand Final, Day 2",
+      "start": "2026-11-29T14:00",
+      "minutes": 120,
+      "status": "provisional",
+      "notes": "Racing start per the official ticket page; times are approximate and may change with weather or race conditions."
     },
     {
       "id": "sailgp-2027-hong-kong",
